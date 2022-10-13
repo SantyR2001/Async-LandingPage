@@ -1,0 +1,23 @@
+{
+  "name": "async-landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantyR2001/Async-LandingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantyR2001/Async-LandingPage/issues"
+  },
+  "homepage": "https://github.com/SantyR2001/Async-LandingPage#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
